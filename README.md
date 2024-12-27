@@ -1,1 +1,1 @@
-# ElectronicARTriumCodeFiles
+This repo contains some of the code files that I worked on for the Electronic ARTrium project that I was involved with. The actual Electronic ARTrium is private access and has way more files, but the purpose of this repo is to showcase the specific files I worked on. For security reasons, all of the IP Addresses has been removed. 
